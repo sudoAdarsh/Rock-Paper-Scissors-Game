@@ -32,7 +32,7 @@ No external libraries are required.
 
    ```bash
    git clone https://github.com/yourusername/rock-paper-scissors.git
-   cd rock-paper-scissors
+   cd Rock-Paper-Scissors-Game
    ```
 
 2. Run the game:

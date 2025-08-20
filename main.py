@@ -1,3 +1,5 @@
+# Author : Adarsh Upadhyay 
+
 import random
 
 # ASCII art definitions
