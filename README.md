@@ -38,7 +38,7 @@ No external libraries are required.
 2. Run the game:
 
    ```bash
-   python rps.py
+   python main.py
    ```
 
 3. Gameplay:
